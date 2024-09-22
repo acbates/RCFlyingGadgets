@@ -7,3 +7,12 @@ With temperature example, XIAO RP2040 microcontroller board.
 
  - Documentation - [theKM_CRSFSensor_temp_RP2040.md]( theKM_CRSFSensor_temp_RP2040.md )
  - Arduino Sketch Code - [theKM_CRSFSensor_temp_RP2040.ino]( theKM_CRSFSensor_temp_RP2040.ino )
+
+
+
+--- 
+
+#### Todos...
+- voltage divider example to read battery voltage
+- get calibration and code for connecting with Matek's Current Sensor
+
