@@ -148,9 +148,8 @@ with your data. Then select the sensor you're interested in, edit, and change th
 etc. `'Units'` being the key change, as that will have it read out "123 degrees celcius" rather than
 "123 meters" or whatever it was telemetry value you hijacked. 
 
-You copy the sensor and make changes to the copy.
-
-You can also create a "calculated" sensor that does math with other sensors (like scale "2.65" value to
+Many things are possible on the telemetry screen; you can copy the sensor and make changes to the copy to
+leave the original alone. You can also create a "calculated" sensor that does math with other sensors (like scale "2.65" value to
 be "265"), change the name, etc etc. The calculations can be clunky (as you can only do math with values
 of other sensor items) but it does work and is super flexible.
 
