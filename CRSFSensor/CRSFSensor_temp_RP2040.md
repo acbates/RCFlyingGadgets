@@ -1,4 +1,4 @@
-# theKM_CRSFSensor_temp_RP2040 .ino
+# CRSFSensor_temp_RP2040 .ino
 
 ## Serve-everything-to-CRSF Sensor / Hijack CRSF \
 ( With specific example of temperature )
