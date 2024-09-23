@@ -68,6 +68,8 @@ Once Arduino is set up, install the `CRSFforArduino` library:
   - use multimeter to get actual value of resistor and update "resistorValue" in the code\
     ( my resistor was 9.3kOhms measured )
 
+![CRSFSensor_temp_RP2040 wiring]( CRSFSensor_temp_RP2040.png )
+
 ### Calibrating a different thermistor?
 You can use any thermistor, but to be honest I don't know what the calibration values
 are. I got the thermistor code below (the "Steinhart-Hart coefficients", etc) by getting
