@@ -13,6 +13,5 @@ With temperature example, XIAO RP2040 microcontroller board.
 --- 
 
 #### Todos...
-- voltage divider example to read battery voltage
-- get calibration and code for connecting with Matek's Current Sensor
+- get calibration and code for connecting with Matek's Current Sensor (current and vBat)
 
