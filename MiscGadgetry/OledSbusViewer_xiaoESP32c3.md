@@ -7,7 +7,7 @@
 
 
 ### Microcontroller / Arduino Board
-This sketch was written for the `Seeed Studio XIAO ESP32c3` board, and an 
+This sketch was written for the `Seeed Studio XIAO ESP32c3` board, and an I2C OLED screen.
 
 > Arduino IDE setup for XIAO ESP32c3:
 > 
