@@ -43,7 +43,7 @@ Handy sbus library:
 ### Shopping List
  - Seeed Studio XIAO ESP32c3
  - OLED Screen - 128x64 pixels was used, I2C (4 pins; VCC, GND, SDA, SCL)
- - Can power with USB, or a single lipo cell direct to the XIAO ESP32c3, or to take a wider/larger voltage input,
+ - Power from the USB, or a single lipo cell direct to the XIAO ESP32c3, or to take a wider/larger voltage input,
    will need a regulator/BEC. ( https://www.amazon.com/dp/B07PLSYX9G ...a really small off-the-shelf BEC to 5v, 3A )
 
 ### Assumed Equipment
