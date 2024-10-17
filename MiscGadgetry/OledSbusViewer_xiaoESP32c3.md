@@ -9,7 +9,7 @@
 ### Microcontroller / Arduino Board
 This sketch was written for the `Seeed Studio XIAO ESP32c3` board, and an 
 
-> Arduino IDE setup for XIAO RP2040:
+> Arduino IDE setup for XIAO ESP32c3:
 > 
 > https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
 
